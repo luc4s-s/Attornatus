@@ -2,7 +2,7 @@
 
 Avaliação Back-end Attornatus
 
-Tecnologias: Java - Spring Boot - API REST - Postman - Postgres
+Tecnologias: Java - Spring Boot - API REST - Postman - Postgres - H2
 
 
 
